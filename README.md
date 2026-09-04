@@ -8,4 +8,4 @@ Reúno aqui os notebooks dos meus projetos de análise e ciência de dados. Sou 
 
 ## Contato
 
-[LinkedIn]([https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/eduardo-jose-medeiros-machado-0280163b0/)) | eduardojosemm@gmail.com
+[LinkedIn]((https://www.linkedin.com/in/eduardo-jose-medeiros-machado-0280163b0/)) | eduardojosemm@gmail.com
